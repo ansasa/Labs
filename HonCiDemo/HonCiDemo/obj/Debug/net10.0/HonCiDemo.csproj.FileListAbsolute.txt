@@ -1,0 +1,15 @@
+D:\AWS DevOps\New Tutor Start Date 04 July 2026\Labs\HonCiDemo\HonCiDemo\obj\Debug\net10.0\HonCiDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\AWS DevOps\New Tutor Start Date 04 July 2026\Labs\HonCiDemo\HonCiDemo\obj\Debug\net10.0\HonCiDemo.AssemblyInfoInputs.cache
+D:\AWS DevOps\New Tutor Start Date 04 July 2026\Labs\HonCiDemo\HonCiDemo\obj\Debug\net10.0\HonCiDemo.AssemblyInfo.cs
+D:\AWS DevOps\New Tutor Start Date 04 July 2026\Labs\HonCiDemo\HonCiDemo\obj\Debug\net10.0\HonCiDemo.csproj.CoreCompileInputs.cache
+D:\AWS DevOps\New Tutor Start Date 04 July 2026\Labs\HonCiDemo\HonCiDemo\obj\Debug\net10.0\HonCiDemo.sourcelink.json
+D:\AWS DevOps\New Tutor Start Date 04 July 2026\Labs\HonCiDemo\HonCiDemo\bin\Debug\net10.0\HonCiDemo.exe
+D:\AWS DevOps\New Tutor Start Date 04 July 2026\Labs\HonCiDemo\HonCiDemo\bin\Debug\net10.0\HonCiDemo.deps.json
+D:\AWS DevOps\New Tutor Start Date 04 July 2026\Labs\HonCiDemo\HonCiDemo\bin\Debug\net10.0\HonCiDemo.runtimeconfig.json
+D:\AWS DevOps\New Tutor Start Date 04 July 2026\Labs\HonCiDemo\HonCiDemo\bin\Debug\net10.0\HonCiDemo.dll
+D:\AWS DevOps\New Tutor Start Date 04 July 2026\Labs\HonCiDemo\HonCiDemo\bin\Debug\net10.0\HonCiDemo.pdb
+D:\AWS DevOps\New Tutor Start Date 04 July 2026\Labs\HonCiDemo\HonCiDemo\obj\Debug\net10.0\HonCiDemo.dll
+D:\AWS DevOps\New Tutor Start Date 04 July 2026\Labs\HonCiDemo\HonCiDemo\obj\Debug\net10.0\refint\HonCiDemo.dll
+D:\AWS DevOps\New Tutor Start Date 04 July 2026\Labs\HonCiDemo\HonCiDemo\obj\Debug\net10.0\HonCiDemo.pdb
+D:\AWS DevOps\New Tutor Start Date 04 July 2026\Labs\HonCiDemo\HonCiDemo\obj\Debug\net10.0\HonCiDemo.genruntimeconfig.cache
+D:\AWS DevOps\New Tutor Start Date 04 July 2026\Labs\HonCiDemo\HonCiDemo\obj\Debug\net10.0\ref\HonCiDemo.dll
